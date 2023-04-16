@@ -3,7 +3,7 @@
 I’m Somē. I’m a classically trained pianist and creative developer taking the leap into software development. 
 
 🔧 Some things that I built:
-- [Brahms Explorer](https://github.com/somecho/catalog-for-contemporary-music) - a searchable catalog for contemporary music with data scraped from IRCAM
+- [Brahms Explorer](https://github.com/somecho/brahms-explorer) - a searchable catalog for contemporary music with data scraped from IRCAM
 - [All the sets](https://github.com/somecho/all-the-sets-frontend) - a small webapp to analyze and learn about Pitch Set Class Theory
 - [Polymetro](https://github.com/somecho/polymetro2) - a polyrhythmic metronome
 
