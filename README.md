@@ -7,11 +7,11 @@ I’m Somē. I’m a classically trained pianist and creative developer taking t
 - [Polymetro](https://github.com/somecho/polymetro-2) - a polyrhythmic metronome
 
 🚏 Some things you might find useful:
+- [Utility Scripts](https://github.com/somecho/utility-scripts) - a collection of helper scripts for Clj, Ledger and Taskwarrior written in Clojure
 - [P5.cljs](https://github.com/somecho/p5cljs-template) - template for using P5 in ClojureScript
 - [OfxJFA](https://github.com/somecho/ofxJFA) - Jump Flooding for OpenFrameworks 
 - [Canny edge detection](https://github.com/somecho/Canny-Edge-Detection-for-Processing) - for Processing
 - [OpenRNDR Library Template](https://github.com/somecho/openrndr-library-template)
-- [KotlinJS WebAudio](https://github.com/somecho/webaudio-kotlin) - externals
  
 📋 Check out my [portfolio](https://somecho.github.io) for more things I've done.
 
