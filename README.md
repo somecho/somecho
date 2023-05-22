@@ -18,7 +18,7 @@ I’m Somē. I’m a classically trained pianist and creative developer taking t
 
 💬 Feel free to talk to me! 
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecho&exclude_repo=lokal-digital,somecho.github.io,gender-predictor&hide_progress=true&langs_count=6&hide=javascript)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecho&exclude_repo=lokal-digital,somecho.github.io,gender-predictor&hide_progress=true&langs_count=6)
 
 <!--
 **somecho/somecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
