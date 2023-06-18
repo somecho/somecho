@@ -6,6 +6,7 @@ I’m Somē. I’m a classically trained pianist and creative developer taking t
 - [Brahms Explorer](https://github.com/somecho/brahms-explorer) - Searchable catalog of contemporary music for musicians, students, teachers and organizers
 - [Polymetro](https://github.com/somecho/polymetro-2) - a polyrhythmic metronome
 - [P5.cljs Web Editor](https://github.com/somecho/p5-cljs-web-editor) - write P5 in ClojureScript in the browser!
+- [Mayfly](https://github.com/somecho/mayfly) - an ephemeral notepad
 
 🚏 Some things you might find useful:
 - [Utility Scripts](https://github.com/somecho/utility-scripts) - Clojure, Java, Ledger and Taskwarrior helper bb scripts 
