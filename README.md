@@ -1,23 +1,16 @@
 ### Hi there 👋
 
-I’m Somē. I’m a classically trained pianist and creative developer taking the leap into software development. 
-
-🔧 Some things that I built:
-- [Brahms Explorer](https://github.com/somecho/brahms-explorer) - Searchable catalog of contemporary music for musicians, students, teachers and organizers
+I’m Somē. Somethings I've made:
 - [Polymetro](https://github.com/somecho/polymetro-2) - a polyrhythmic metronome
-- [P5.cljs Web Editor](https://github.com/somecho/p5-cljs-web-editor) - write P5 in ClojureScript in the browser!
-- [Mayfly](https://github.com/somecho/mayfly) - an ephemeral notepad
-
-🚏 Some things you might find useful:
+- [P5.cljs Web Editor](https://github.com/somecho/p5-cljs-web-editor) - write P5 in ClojureScript in the browser
+- [depo](https://github.com/somecho/depo) - dependency writer/manager for Clojure
+- [All the sets](https://github.com/somecho/all-the-sets-frontend) - a pitch class set theory explorer
+- [String Compressor Service](https://github.com/somecho/string-compressor-service) - compressing strings as a web service
+- [Brahms Explorer](https://github.com/somecho/brahms-explorer) - Searchable catalog of contemporary music for musicians, students, teachers and organizers
 - [Utility Scripts](https://github.com/somecho/utility-scripts) - Clojure, Java, Ledger and Taskwarrior helper bb scripts 
-- [P5.cljs](https://github.com/somecho/p5cljs-template) - template for using P5 in ClojureScript
-- [OfxJFA](https://github.com/somecho/ofxJFA) - Jump Flooding for OpenFrameworks 
+- [OfxJFA](https://github.com/somecho/ofxJFA) - Shader based jump flooding addon for OpenFrameworks 
 - [Canny edge detection](https://github.com/somecho/Canny-Edge-Detection-for-Processing) - for Processing
-- [OpenRNDR Library Template](https://github.com/somecho/openrndr-library-template)
- 
-📋 Check out my [portfolio](https://somecho.github.io) for more things I've done.
-
-💬 Feel free to talk to me! 
+- [P5.cljs](https://github.com/somecho/p5cljs-template) - P5 in CLJS starter template
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecho&exclude_repo=lokal-digital,somecho.github.io,gender-predictor&hide_progress=true&langs_count=6)
 
