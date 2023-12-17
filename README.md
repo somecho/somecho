@@ -7,7 +7,6 @@ I’m Somē. Somethings I've made:
 - [All the sets](https://github.com/somecho/all-the-sets-frontend) - a pitch class set theory explorer
 - [String Compressor Service](https://github.com/somecho/string-compressor-service) - compressing strings as a web service
 - [Brahms Explorer](https://github.com/somecho/brahms-explorer) - Searchable catalog of contemporary music for musicians, students, teachers and organizers
-- [Utility Scripts](https://github.com/somecho/utility-scripts) - Clojure, Java, Ledger and Taskwarrior helper bb scripts 
 - [OfxJFA](https://github.com/somecho/ofxJFA) - Shader based jump flooding addon for OpenFrameworks 
 - [Canny edge detection](https://github.com/somecho/Canny-Edge-Detection-for-Processing) - for Processing
 - [P5.cljs](https://github.com/somecho/p5cljs-template) - P5 in CLJS starter template
