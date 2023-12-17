@@ -12,8 +12,6 @@ I’m Somē. Somethings I've made:
 - [Canny edge detection](https://github.com/somecho/Canny-Edge-Detection-for-Processing) - for Processing
 - [P5.cljs](https://github.com/somecho/p5cljs-template) - P5 in CLJS starter template
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecho&exclude_repo=lokal-digital,somecho.github.io,gender-predictor&hide_progress=true&langs_count=6)
-
 <!--
 **somecho/somecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
