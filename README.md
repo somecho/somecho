@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Somē [so-mi]. Some things I've made:
+I’m Somē. Some things I've made:
 
 **Sound**
 - [Metrome](https://github.com/somecho/metrome) - text based click track generator
