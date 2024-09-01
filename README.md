@@ -18,3 +18,7 @@ I’m Somē. Some things I've made:
 - [datbin](https://github.com/somecho/datbin) - self-hosted multiformat data pastebin
 - [depo](https://github.com/somecho/depo) - dependency writer/manager for Clojure
 - [String Compressor Service](https://github.com/somecho/string-compressor-service) - compressing strings as a web service
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=somecho&hide=html,jupyter%20notebook,c&layout=compact)
