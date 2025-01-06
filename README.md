@@ -21,5 +21,5 @@ I’m Somē. Some things I've made:
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somecho&hide=html,jupyter%20notebook,c&layout=compact&exclude_repo=js-string-compression-benchmarks
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=somecho&hide=html,jupyter%20notebook,c&layout=compact&exclude_repo=js-string-compression-benchmarks,cljs-compiler-compiler
 )
