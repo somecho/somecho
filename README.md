@@ -17,5 +17,5 @@ I’m Somē. Some things I've made:
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somecho&hide=html,jupyter%20notebook,c&layout=compact&exclude_repo=cljs-compiler-compiler,p5cljs-editor
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=somecho&hide=html,jupyter%20notebook,c&layout=compact&exclude_repo=cljs-compiler-compiler,p5cljs-editor,cl-fnl
 )
